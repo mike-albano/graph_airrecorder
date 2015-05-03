@@ -16,5 +16,7 @@ graphing AirRecorder output of "show ap arm rf-summary"
 The only python dependency is matplotlib.
 
 Linux: sudo apt-get install python-matplotlib
+
 OSX: pip, macports etc.
+
 Windows: untested
