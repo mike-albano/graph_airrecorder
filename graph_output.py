@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 ##############
+# Ver. 0.1
 # This will graph the output of an IAP rf-summary command, using air-recorder to obtain the raw data.
 # launch air-recorder with the following air-recorder command:
 # java -jar AirRecorder-1.2.16-release.jar --instant --protocol ssh -u admin -t 20 -m -c commands.txt 4.35.159.123
